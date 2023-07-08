@@ -132,10 +132,10 @@ def getConpun():
 
 
 if __name__ == "__main__":
-    # 账号token
+    # 账号token=ABBwEaIDAAABAAAAAADS9UZ6ODUePA1lLuKoZBAAAAClvZTgDOvAQqLcQuQHgdxZ0wLxWw2wQdGlZ79mwrM57Oha5N85JQalo60DbAvqIWcadNUK7TiaK1vZgxrUrTtAOsoB_sROKvP-eXCIN3vlaUNKZWvqgyO1CeQSAIdmYZC25_Fr-mZNlm39ZCTnfnB3
     token = '示例 请修改为自己账号的token'
     # 大于多少分提交游戏领取提现券
-    maxScore = 7000
+    maxScore = 20000
     activity_id = 1000003
     while True:
         items = []
